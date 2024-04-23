@@ -1,63 +1,63 @@
 [
     {
-        "first_name": "John",
-        "last_name": "Doe",
+        "first_name": "john",
+        "last_name": "doe",
         "age": 30,
-        "city": "New York"
+        "city": "new york"
     },
     {
-        "first_name": "Jane",
-        "last_name": "Smith",
+        "first_name": "jane",
+        "last_name": "smith",
         "age": 25,
-        "city": "Los Angeles"
+        "city": "los angeles"
     },
     {
-        "first_name": "Michael",
-        "last_name": "Johnson",
+        "first_name": "michael",
+        "last_name": "johnson",
         "age": 35,
-        "city": "Chicago"
+        "city": "chicago"
     },
     {
-        "first_name": "Emily",
-        "last_name": "Jones",
+        "first_name": "emily",
+        "last_name": "jones",
         "age": 30,
-        "city": "San Francisco"
+        "city": "san francisco"
     },
     {
-        "first_name": "John",
-        "last_name": "Williams",
+        "first_name": "john",
+        "last_name": "williams",
         "age": 40,
-        "city": "Boston"
+        "city": "boston"
     },
     {
-        "first_name": "David",
-        "last_name": "Brown",
+        "first_name": "david",
+        "last_name": "brown",
         "age": 25,
-        "city": "Miami"
+        "city": "miami"
     },
     {
-        "first_name": "Sarah",
-        "last_name": "Davis",
+        "first_name": "sarah",
+        "last_name": "davis",
         "age": 35,
-        "city": "Seattle"
+        "city": "seattle"
     },
     {
-        "first_name": "John",
-        "last_name": "Wilson",
+        "first_name": "john",
+        "last_name": "wilson",
         "age": 30,
-        "city": "Denver"
+        "city": "denver"
     },
     {
-        "first_name": "Emma",
-        "last_name": "Taylor",
+        "first_name": "emma",
+        "last_name": "taylor",
         "age": 25,
-        "city": "Dallas"
+        "city": "dallas"
     },
     {
-        "first_name": "Andrew",
-        "last_name": "Martinez",
+        "first_name": "andrew",
+        "last_name": "martinez",
         "age": 35,
-        "city": "Houston"
+        "city": "houston"
     }
 ]
 
