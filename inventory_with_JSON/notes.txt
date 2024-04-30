@@ -1,0 +1,11 @@
+#fix the search fucntion 
+data = record list
+for record in record_list
+
+#delete
+when you delete its best practice when its done using a unique identifier. 
+
+#make complex json file. 
+do the same project with it.
+
+
